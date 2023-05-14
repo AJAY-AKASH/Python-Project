@@ -1,1 +1,1 @@
-# Python-Project
+A cab booking interface is created in python, using Tkinter GUI.   The page is embedded with accessing weather details of the destination city and currency conversion, both from an external website using API calls. Login page are integrated and database connectivity was establish using MySQL server.
